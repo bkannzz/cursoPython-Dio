@@ -7,6 +7,3 @@ mensagem = f"""
 """
 
 print(mensagem)
-
-
-print("rebecca lobato comeu \na roupa do rei de roma")

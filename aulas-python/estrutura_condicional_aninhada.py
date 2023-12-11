@@ -21,6 +21,7 @@ elif conta_universitaria:
         print("Saldo insuficiente!")
 
 elif conta_especial:
+    if saldo >= saque:
         print("Conta especial selecionada!")
     else:
         print("Sistema não reconheceu sei tipo de conta, entre em contato com o seu gerente.")
